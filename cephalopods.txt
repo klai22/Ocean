@@ -1,2 +1,2 @@
-octopus
-squid
+red octopus
+red squid
