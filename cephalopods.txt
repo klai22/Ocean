@@ -1,2 +1,3 @@
-blue octopus
-red squid
+color	animal	geneA_count
+blue	octopus	7
+red	squid	15
