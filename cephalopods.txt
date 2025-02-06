@@ -1,2 +1,2 @@
-octopus
-squid
+octopus	7
+squid	15
